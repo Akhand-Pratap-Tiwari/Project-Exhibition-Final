@@ -13,5 +13,5 @@ reviews, price.
 - Team Project: 5 members
 - Role: Project Lead with following responsibilities: System design and workflow, make the Ranking system,
 AI model for Review Summarization
-- Link for Sentiment Analysis: https://github.com/Akhand-Pratap-Tiwari/Sentiment-Analysis-on-Reviews-using-LinearSVC-and-TF-IDF
-- Link for Summarizer: https://github.com/Akhand-Pratap-Tiwari/Automatic-Extractive-Text-Summarizationusing-TF-IDF
+- Link for Sentiment Analysis: https://github.com/Akhand-Pratap-Tiwari/Sentiment-Analysis-on-Reviews-using-Linear-SVC-and-TF-IDF
+- Link for Summarizer: https://github.com/Akhand-Pratap-Tiwari/Automatic-Extractive-Text-Summarization-using-TF-IDF
